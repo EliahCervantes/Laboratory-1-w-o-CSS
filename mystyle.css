@@ -4,12 +4,12 @@ body{
     .header{
         margin: auto;
         width: 90%;
-        padding: 10px;
+        padding: 6px;
     }
     .b{
         margin: auto;
         width: 90%;
-        padding: 10px;
+        padding: 6px;
     }
     h1{
         font-family: Helvetica, Sans-serif;
@@ -31,13 +31,23 @@ body{
     }
     audio{
         color: #303030;
+        width: 90%;
     }
     table{
-        
+        width: 90%;
+        padding: 6px;
+    th{
+        background-color: #ffffff;
+        font-family: Helvetica, Sans-serif;
+        font-weight: Bold;
+        font-size: 20px;
+        color: #000000;
+    }
+    td{
         font-family: Helvetica, Sans-serif;
         font-weight: Bold;
         font-size: 20px;
         color: #ffffff;
-        
+    }
     }
 }
