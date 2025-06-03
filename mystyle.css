@@ -3,12 +3,12 @@ body{
     background-color: #000000;
    .header{
        margin: auto;
-       width: 70%;
+       width: 75%;
        padding: 10px;
     }
     .content{
        margin: auto;
-       width: 70%;
+       width: 75%;
        padding: 10px;
     }
     iframe{
