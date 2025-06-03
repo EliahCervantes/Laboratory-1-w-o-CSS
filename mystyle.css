@@ -34,6 +34,7 @@ body{
         width: 90%;
     }
     table{
+        margin: auto;
         width: 90%;
         padding: 6px;
     th{
@@ -49,5 +50,17 @@ body{
         font-size: 20px;
         color: #ffffff;
     }
-    }
+    }  
+}
+footer{
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    background-color: #ffffff;
+    font-family: Helvetica, Sans-serif;
+    font-weight: Bold;
+    font-size: 20px;
+    color: #000000;
+    text-align: Center;
+    
 }
