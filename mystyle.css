@@ -1,11 +1,20 @@
 
 body{
     background-color: #000000;
-.header{
+   .header{
        margin: auto;
-       width: 80%;
+       width: 70%;
        padding: 10px;
-}
+    }
+    .content{
+       margin: auto;
+       width: 70%;
+       padding: 10px;
+    }
+    iframe{
+        margin: auto;
+    }
+
     h1{
         font-family: Helvetica, Sans-serif;
         font-weight: Bold;
