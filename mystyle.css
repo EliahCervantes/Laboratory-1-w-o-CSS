@@ -4,22 +4,30 @@ body{
     h1{
         font-family: Helvetica, Sans-serif;
         font-weight: Bold;
-        font-size: 20px;
+        font-size: 50px;
         color: #ffffff;
     }
     h2{
         font-family: Helvetica, Sans-serif;
         font-weight: Bold;
-        font-size: 17px;
+        font-size: 25px;
         color: #ffffff;
     }
     p{
         font-family: Helvetica, Sans-serif;
         font-weight: normal;
-        font-size: 12px;
+        font-size: 15px;
         color: #ffffff;
     }
     audio{
         color: #303030;
+    }
+    table{
+        
+        font-family: Helvetica, Sans-serif;
+        font-weight: Bold;
+        font-size: 20px;
+        color: #ffffff;
+        
     }
 }
