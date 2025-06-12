@@ -35,8 +35,8 @@ body{
     }
     table{
         margin: auto;
-        width: 90%;
-        padding: 6px;
+        width: 100%;
+        padding: 12px;
     th{
         background-color: #ffffff;
         font-family: Helvetica, Sans-serif;
